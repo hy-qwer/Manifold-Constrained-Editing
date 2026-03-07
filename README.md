@@ -25,3 +25,5 @@ python main.py \
   --stage2_ckpt path/to/stage2_checkpoint.pth \
   --probe_ckpt path/to/probe_checkpoint.pth \
   --decoder_ckpt path/to/decoder_checkpoint.pth
+
+Model checkpoints are provided in the Releases section of this repository.
