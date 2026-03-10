@@ -1,6 +1,6 @@
 # Manifold Constrained Editing
 
-Public code release for the main evaluation pipeline of **Manifold Constrained Editing**.
+This repository contains the public code and model checkpoints for the paper "Manifold-Guided Deterministic Editing in Visual Representation Spaces", which is currently submitted to *The Visual Computer*.
 
 ## Contents
 
