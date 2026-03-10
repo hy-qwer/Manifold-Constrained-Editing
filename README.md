@@ -28,9 +28,9 @@ pip install -r requirements.txt
 
 This repository does **not** redistribute dataset images.
 
-For experiments based on **CelebA-HQ**, users should prepare the dataset locally by obtaining it from the original source or an authorized distribution channel. Please make sure that your local use of the dataset complies with the dataset license and terms of use.
+For the experiments based on **CelebA-HQ**, please prepare the dataset locally. Ensure that the dataset is obtained from the original source or an authorized distribution channel, and that you comply with the dataset's license and terms of use.
 
-After obtaining the dataset, organize the image files and attribute annotation file locally, then pass their paths to the evaluation script via:
+Once you have the dataset, organize the image files and attribute annotation file locally, and provide their paths to the evaluation script using the following parameters:
 
 - `--img_root`: root directory of the prepared image files
 - `--attr_path`: path to the corresponding attribute annotation file
