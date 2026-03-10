@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cu130
+
+numpy==2.2.6
+torch==2.9.1+cu130
+torchvision==0.24.1+cu130
+timm==1.0.22
+Pillow==10.2.0
+tqdm==4.67.1
+lpips==0.1.4
+tensorboard==2.20.0
+opencv-python==4.12.0.88
+insightface==0.7.3
+onnxruntime-gpu==1.23.2
