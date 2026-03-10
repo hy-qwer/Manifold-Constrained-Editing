@@ -66,8 +66,3 @@ This public release focuses on the code and checkpoints required for evaluation 
 
 If you find the released code useful in your research, please consider citing the associated manuscript.
 
-## Contact
-
-For questions regarding this repository, please contact the authors through the manuscript correspondence channel.
-
-
