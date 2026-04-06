@@ -1,6 +1,6 @@
 # Manifold Constrained Editing
 
-This repository contains the public code and model checkpoints for the manuscript **"Manifold-Guided Deterministic Editing in Visual Representation Spaces"**, which is currently under consideration at *The Visual Computer*.
+This repository contains the public code and model checkpoints for the manuscript **"Manifold-Guided Deterministic Editing in Visual Representation Spaces"**
 
 DOI: [10.5072/zenodo.469062](https://doi.org/10.5072/zenodo.469062)
 
